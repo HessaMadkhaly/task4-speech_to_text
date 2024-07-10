@@ -7,3 +7,7 @@
 
 ## the web page after save in database
 <img src="https://github.com/HessaMadkhaly/task4-speech_to_text/assets/174480124/4f4dd9d3-911f-4602-8605-2de32a096cde" width="250" height="150">
+
+
+## the details of web page in file 
+(C:/Users/96653/Downloads/Task 4.pdf) - task4
